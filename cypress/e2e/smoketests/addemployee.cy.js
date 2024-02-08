@@ -30,7 +30,7 @@ describe("Verify Add employee functiobality", function(){
 
      
         cy.visit('/web/index.php/auth/login')
-        login.loginwithcreds(creds.username, creds.password)
+        login.loginwithcreds(logindata.username, logindata.password)
         cy.contains(dashboard.timeandworkcard()).should('be.visible')
         //or
         cy.contains(dashboard.dashboardmenu()).should('be.visible')
