@@ -7,7 +7,7 @@ class LonginPage{
 
     usernameInput(){
 
-        return 'input[name="username"]'
+        return '//input[@name="username"]'
     }
 
     passwordInput(){

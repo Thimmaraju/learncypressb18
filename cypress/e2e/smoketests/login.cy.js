@@ -44,7 +44,7 @@ describe('Verify Login functionality', () => {
     specify.only('Verify login with Valid credentials', () => {
 
    
-        cy.get(login.usernameInput()).type(credentials[0])
+        cy.xpath(login.usernameInput()).type(credentials[0])
         cy.get(login.passwordInput()).type(credentials[1])
         cy.get(login.submitbutton).click()
         cy.contains(dashboard.timeandworkcard()).should('be.visible')
@@ -63,7 +63,7 @@ describe('Verify Login functionality', () => {
     
     })
 
-    it.only('Verify Login with valid username and invalid password', () => {
+    it('Verify Login with valid username and invalid password', () => {
 
         var username = "irujihrufh"
         var password ="jerbfehriugf"
