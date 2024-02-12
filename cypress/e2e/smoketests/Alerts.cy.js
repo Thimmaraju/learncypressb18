@@ -20,7 +20,7 @@ describe('Automation - Working with Alerts', function () {
 
         cy.contains('Click for JS Confirm').click();
         cy.on('window:confirm', () => {
-            return true;
+            return false;
         })
     })
 
@@ -36,9 +36,9 @@ describe('Automation - Working with Alerts', function () {
 
     it.only('Cypress Test Case - test prompt Alert - Ok', function () {
     
-        cy.window().then((win) => {
+        cy.window().then(($win) => {
 
-            cy.stub(win, 'prompt').returns("Swetha");
+            cy.stub($win, 'prompt').returns("Nagamani");
             cy.contains('Click for JS Prompt').click();
         })
     
