@@ -20,8 +20,7 @@ describe("Verify Add employee functiobality", function(){
         menu5: "Recruitment",
         menu6: "My Info",
         menu7: "Performance",
-        menu8: "Dashboard",
-        menu9: "Raju"
+        menu8: "Dashboard"
     }
 
  var menus = ["Admin", "PIM"]
@@ -47,15 +46,8 @@ describe("Verify Add employee functiobality", function(){
             cy.contains(i).should('be.visible')
 
         }
-        cy.contains(dashboard.pimmenu()).click()
-
-        cy.contains(addemployee.addemployeesubmenu()).click()
-
-        cy.get(addemployee.firstnameInput()).type(addemployeedata.firstname)
-
-        cy.get(addemployee.lastbnameInput()).type(addemployeedata.lastname)
-
-        cy.get(addemployee.savebutton()).click()
+        
+       cy.addemployee()
 
         cy.contains(addemployee.successmessage()).should("be.visible")
     })

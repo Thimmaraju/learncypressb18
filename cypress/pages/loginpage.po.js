@@ -36,7 +36,7 @@ class LonginPage{
 
     loginwithcreds(username, password){
 
-        cy.get(this.usernameInput()).type(username)
+        cy.xpath(this.usernameInput()).type(username)
         cy.get(this.passwordInput()).type(password)
         cy.get(this.submitbutton).click()
     }

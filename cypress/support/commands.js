@@ -25,3 +25,23 @@
 // Cypress.Commands.overwrite('visit', (originalFn, url, options) => { ... })
 
 require('@4tw/cypress-drag-drop')
+import 'cypress-file-upload';
+require('cypress-downloadfile/lib/downloadFileCommand')
+
+import dashboard from '../pages/dashboardpage.po'
+import addemployee from '../pages/addemployeepage.po'
+
+
+Cypress.Commands.add('addemployee', () => { 
+    
+        cy.contains(dashboard.pimmenu()).click()
+
+        cy.contains(addemployee.addemployeesubmenu()).click()
+
+        cy.get(addemployee.firstnameInput()).type("Raju")
+
+        cy.get(addemployee.lastbnameInput()).type("G")
+
+        cy.get(addemployee.savebutton()).click()
+
+ })
