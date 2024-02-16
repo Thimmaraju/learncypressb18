@@ -9,10 +9,10 @@ describe('Validate Orange HRM Login functionality', function () {
     cy.session("Login session", () => {
 
       cy.visit("/web/index.php/auth/login")
-      cy.xpath(login.usernameinput()).type('Admin')
+      cy.xpath(login.usernameInput()).type('Admin')
       cy.get(login.passwordInput()).type('admin123')
   
-      cy.get(login.loginBtn()).click()
+      cy.get(login.submitbutton).click()
    
     })
 
@@ -20,6 +20,8 @@ describe('Validate Orange HRM Login functionality', function () {
 
   it('Validate Add job title ', function () {
 
+
+    //cy.contains("Dashboard").should("be.visible")
 
     cy.visit("/web/index.php/admin/saveJobTitle");
     let r = (Math.random() + 1).toString(36).substring(7);

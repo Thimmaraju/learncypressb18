@@ -66,18 +66,18 @@ describe('Automation - Working With Links', function () {
     
   })
 
-  it.skip("interview question and answer", ()=>{
+  it.only("interview question and answer", ()=>{
 
    cy.visit('https://www.flipkart.com/')
 
-   cy.get('div._3sdu8W.emupdz > a:nth-child(2) > div > div > span > span').then((raju) =>{
+   cy.get('div._3sdu8W.emupdz > a:nth-child(2) > div > div > span > span').then((txt) =>{
 
-    var eletext = raju.text()
+    var eletext = txt.text()
 
     cy.log(eletext)
-    cy.writeFile('cypress/fixtures/module1/test2.txt', eletext)
+    cy.writeFile('cypress/fixtures/module1/test3.txt', eletext)
 
-    cy.writeFile('cypress/fixtures/module1/flipcart.json', { menutext: eletext });
+    cy.writeFile('cypress/fixtures/module1/flipcart2.json', { menutext: eletext });
     //expect(eletext).to.equal("Raju")
     
    })
