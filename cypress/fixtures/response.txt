@@ -1,0 +1,396 @@
+{
+  "body": {
+    "data": [
+      {
+        "empNumber": 149,
+        "lastName": "Patel",
+        "firstName": "0257",
+        "middleName": "",
+        "employeeId": "0356",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 161,
+        "lastName": "patil",
+        "firstName": "aniket",
+        "middleName": "Ashok",
+        "employeeId": "821",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 170,
+        "lastName": "Lee",
+        "firstName": "James",
+        "middleName": "",
+        "employeeId": "0377",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 169,
+        "lastName": "User",
+        "firstName": "jhanina",
+        "middleName": "",
+        "employeeId": "0376",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 157,
+        "lastName": "Lee",
+        "firstName": "Jon",
+        "middleName": "",
+        "employeeId": "0364",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 150,
+        "lastName": "Joe",
+        "firstName": "Jon",
+        "middleName": "",
+        "employeeId": "0357",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 171,
+        "lastName": "RDSIT",
+        "firstName": "KiranQAEng",
+        "middleName": "",
+        "employeeId": "03783542",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 154,
+        "lastName": "RDSIT",
+        "firstName": "KiranQAEng",
+        "middleName": "",
+        "employeeId": "03613542",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 162,
+        "lastName": "RDSIT",
+        "firstName": "KiranQAEng",
+        "middleName": "",
+        "employeeId": "03693542",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 167,
+        "lastName": "Disabled",
+        "firstName": "LionelMessi",
+        "middleName": "",
+        "employeeId": "0374",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 160,
+        "lastName": "Owen",
+        "firstName": "Michael",
+        "middleName": "",
+        "employeeId": "0367",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 166,
+        "lastName": "Enabled",
+        "firstName": "Ronaldo",
+        "middleName": "",
+        "employeeId": "0373",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 153,
+        "lastName": "Emp",
+        "firstName": "TestEmp",
+        "middleName": "",
+        "employeeId": "0360",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 156,
+        "lastName": "Emp",
+        "firstName": "TestEmp",
+        "middleName": "",
+        "employeeId": "0361",
+        "terminationId": null,
+        "jobTitle": {
+          "id": null,
+          "title": null,
+          "isDeleted": null
+        },
+        "subunit": {
+          "id": null,
+          "name": null
+        },
+        "empStatus": {
+          "id": null,
+          "name": null
+        },
+        "supervisors": []
+      },
+      {
+        "empNumber": 7,
+        "lastName": "Hang",
+        "firstName": "Trinh",
+        "middleName": "Thi",
+        "employeeId": "0000007",
+        "terminationId": null,
+        "jobTitle": {
+          "id": 23,
+          "title": "HR Manager",
+          "isDeleted": false
+        },
+        "subunit": {
+          "id": 13,
+          "name": "Human Resources"
+        },
+        "empStatus": {
+          "id": 3,
+          "name": "Full-Time Permanent"
+        },
+        "supervisors": []
+      }
+    ],
+    "meta": {
+      "total": 15
+    },
+    "rels": []
+  },
+  "headers": {
+    "server": "nginx",
+    "date": "Mon, 19 Feb 2024 03:28:46 GMT",
+    "content-type": "application/json",
+    "transfer-encoding": "chunked",
+    "connection": "keep-alive",
+    "cache-control": "no-cache, private",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=63072000; includeSubdomains;",
+    "content-security-policy": "default-src blob: 'self' *.projects-abroad.net fonts.googleapis.com www.google.com fonts.gstatic.com code.jquery.com maxcdn.bootstrapcdn.com ajax.googleapis.com cdnjs.cloudflare.com native.testing.equest.com www.youtube.com demo.docusign.net youtu.be player.vimeo.com docs.google.com 'unsafe-inline' 'unsafe-eval' data: font;frame-src 'self' *.amazonaws.com native.testing.equest.com sandbox.e-signlive.com;connect-src 'self' *.orangehrm.com;img-src * 'self' data: blob:",
+    "public-key-pins": "pin-sha256=\"blgmjf3Tb3C0sUqb7jo4axiZAnr327fX0ycrUGqjw2k=\";pin-sha256=\"yQhO6YqQX5Y/NxyHAjXnI3jOtYWUm/TtRr666RunXRg=\"; pin-sha256=\"puCdyuZdXoDc5jSdcGKU6mdjd0VNq16yoaO2BcDF36A=\"; max-age=63072000; includeSubDomains"
+  },
+  "status": 200,
+  "statusText": "OK",
+  "isOkStatusCode": true,
+  "requestHeaders": {
+    "Connection": "keep-alive",
+    "Cookie": "orangehrm=938185d70b19400a98a454573c743a2b",
+    "Host": "opensource-demo.orangehrmlive.com",
+    "Referer": "https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "accept": "*/*",
+    "accept-encoding": "gzip, deflate"
+  },
+  "duration": 339,
+  "allRequestResponses": [
+    {
+      "Request Body": null,
+      "Request Headers": {
+        "Connection": "keep-alive",
+        "Cookie": "orangehrm=938185d70b19400a98a454573c743a2b",
+        "Host": "opensource-demo.orangehrmlive.com",
+        "Referer": "https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewEmployeeList",
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+        "accept": "*/*",
+        "accept-encoding": "gzip, deflate"
+      },
+      "Request URL": "https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees?limit=50&offset=0&model=detailed&includeEmployees=onlyCurrent&sortField=employee.firstName&sortOrder=ASC",
+      "Response Body": "{\"data\":[{\"empNumber\":149,\"lastName\":\"Patel\",\"firstName\":\"0257\",\"middleName\":\"\",\"employeeId\":\"0356\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":161,\"lastName\":\"patil\",\"firstName\":\"aniket\",\"middleName\":\"Ashok\",\"employeeId\":\"821\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":170,\"lastName\":\"Lee\",\"firstName\":\"James\",\"middleName\":\"\",\"employeeId\":\"0377\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":169,\"lastName\":\"User\",\"firstName\":\"jhanina\",\"middleName\":\"\",\"employeeId\":\"0376\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":157,\"lastName\":\"Lee\",\"firstName\":\"Jon\",\"middleName\":\"\",\"employeeId\":\"0364\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":150,\"lastName\":\"Joe\",\"firstName\":\"Jon\",\"middleName\":\"\",\"employeeId\":\"0357\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":171,\"lastName\":\"RDSIT\",\"firstName\":\"KiranQAEng\",\"middleName\":\"\",\"employeeId\":\"03783542\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":154,\"lastName\":\"RDSIT\",\"firstName\":\"KiranQAEng\",\"middleName\":\"\",\"employeeId\":\"03613542\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":162,\"lastName\":\"RDSIT\",\"firstName\":\"KiranQAEng\",\"middleName\":\"\",\"employeeId\":\"03693542\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":167,\"lastName\":\"Disabled\",\"firstName\":\"LionelMessi\",\"middleName\":\"\",\"employeeId\":\"0374\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":160,\"lastName\":\"Owen\",\"firstName\":\"Michael\",\"middleName\":\"\",\"employeeId\":\"0367\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":166,\"lastName\":\"Enabled\",\"firstName\":\"Ronaldo\",\"middleName\":\"\",\"employeeId\":\"0373\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":153,\"lastName\":\"Emp\",\"firstName\":\"TestEmp\",\"middleName\":\"\",\"employeeId\":\"0360\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":156,\"lastName\":\"Emp\",\"firstName\":\"TestEmp\",\"middleName\":\"\",\"employeeId\":\"0361\",\"terminationId\":null,\"jobTitle\":{\"id\":null,\"title\":null,\"isDeleted\":null},\"subunit\":{\"id\":null,\"name\":null},\"empStatus\":{\"id\":null,\"name\":null},\"supervisors\":[]},{\"empNumber\":7,\"lastName\":\"Hang\",\"firstName\":\"Trinh\",\"middleName\":\"Thi\",\"employeeId\":\"0000007\",\"terminationId\":null,\"jobTitle\":{\"id\":23,\"title\":\"HR Manager\",\"isDeleted\":false},\"subunit\":{\"id\":13,\"name\":\"Human Resources\"},\"empStatus\":{\"id\":3,\"name\":\"Full-Time Permanent\"},\"supervisors\":[]}],\"meta\":{\"total\":15},\"rels\":[]}",
+      "Response Headers": {
+        "server": "nginx",
+        "date": "Mon, 19 Feb 2024 03:28:46 GMT",
+        "content-type": "application/json",
+        "transfer-encoding": "chunked",
+        "connection": "keep-alive",
+        "cache-control": "no-cache, private",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "strict-transport-security": "max-age=63072000; includeSubdomains;",
+        "content-security-policy": "default-src blob: 'self' *.projects-abroad.net fonts.googleapis.com www.google.com fonts.gstatic.com code.jquery.com maxcdn.bootstrapcdn.com ajax.googleapis.com cdnjs.cloudflare.com native.testing.equest.com www.youtube.com demo.docusign.net youtu.be player.vimeo.com docs.google.com 'unsafe-inline' 'unsafe-eval' data: font;frame-src 'self' *.amazonaws.com native.testing.equest.com sandbox.e-signlive.com;connect-src 'self' *.orangehrm.com;img-src * 'self' data: blob:",
+        "public-key-pins": "pin-sha256=\"blgmjf3Tb3C0sUqb7jo4axiZAnr327fX0ycrUGqjw2k=\";pin-sha256=\"yQhO6YqQX5Y/NxyHAjXnI3jOtYWUm/TtRr666RunXRg=\"; pin-sha256=\"puCdyuZdXoDc5jSdcGKU6mdjd0VNq16yoaO2BcDF36A=\"; max-age=63072000; includeSubDomains"
+      },
+      "Response Status": 200
+    }
+  ]
+}

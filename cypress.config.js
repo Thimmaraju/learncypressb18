@@ -17,6 +17,7 @@ module.exports = defineConfig({
     "retries": {"openMode":2, "runMode": 0},
     "video":true,
     "env":{
+      "cookivalue": "orangehrm=938185d70b19400a98a454573c743a2b",
       "allureResultsPath": "allure-results",
       "username" : "Admin",
       "password": "admin123",
